@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/bhupesh-r-1a990a280">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
